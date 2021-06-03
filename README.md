@@ -99,16 +99,6 @@
 ##### Installation der Arbeitsumgebung
 
 - [Mining the Social Web](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition)
-    
-- Dev-Account Twitter
-    - FFHSChriGro: @FChriGro
-        ...@twitterffhs
-    - AppName: FFHSChristophGrossmann
-    - API key:WyHQPwl1pfCNBoDTR4KzCLVBn
-    - API key secret:WBWp15uniPm96xgYqtEgiKuPH0xVPhJl7CqDfhGSUeT8AzeBiS
-    - Bearer token:AAAAAAAAAAAAAAAAAAAAAJv7GgEAAAAAWKL%2BGgyIiFrsPeKzq5w0qLaT4EY%3DtsESKBmrMWRe6qOt0gOyUXT48mSn9k6PYWfXWqj6rNhc6dycG1
-    
-
 
 ###### Probleme:
 
